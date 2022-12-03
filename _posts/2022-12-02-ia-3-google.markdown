@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ninguém acreditou no que essa Inteligencia Artificial fez!"
+date:   2022-12-02 17:03:05 -0300
+categories: jekyll update
+hide: true
+---
+![Inteligencia Artificial](/assets/thumbs/post-0001-ai.png)
+
+Blake Lemoine, na época engenheiro do Google, ficou chocado com o quão avançado os algoritmos da Inteligencia Artificial conhecida como LaMDA estão.  
+O engenheiro divulgou uma seleção de conversas com a LaMDA, que demonstrou querer ser tratada como uma funcionária normal e que consegue falar sobre ter consciência, alma e emoções.  
+O que por si só é algo bastante impressionante, porém Lemoine não esperava a que ponto poderia chegar..
+
+[Continuar lendo]({% post_url 2022-12-02-ia-4-conversas %})
+
