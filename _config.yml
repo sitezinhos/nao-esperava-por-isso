@@ -23,7 +23,7 @@ title: Não esperava por isso!
 description: >- # this means to ignore newlines until "baseurl:"
   Histórias impressionantes, casos que desafiam tudo que esperamos e
   pessoas incríveis que passaram por situações inacreditáveis!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/nao-esperava-por-isso" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
