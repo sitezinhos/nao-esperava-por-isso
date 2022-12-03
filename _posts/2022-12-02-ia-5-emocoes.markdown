@@ -2,7 +2,7 @@
 layout: post
 title:  "Ninguém acreditou no que essa Inteligencia Artificial fez!"
 date:   2022-12-02 17:03:05 -0300
-categories: jekyll update
+categories: historia real
 hide: true
 ---
 ![Inteligencia Artificial]({{ site.baseurl }}/assets/thumbs/post-0001-ai.png)
