@@ -5,7 +5,7 @@ date:   2022-12-02 17:03:05 -0300
 categories: jekyll update
 hide: true
 ---
-![Inteligencia Artificial](/assets/thumbs/post-0001-ai.png)
+![Inteligencia Artificial]({{ site.baseurl }}/assets/thumbs/post-0001-ai.png)
 
 Muitas pessoas tem medo de perder seus empregos para as inteligências artificiais.  
 Filmes de Hollywood constantemente imaginam cenários preocupantes para os seres humanos, fazendo com que sempre enxerguemos esta tecnologia como uma grande vilã.  

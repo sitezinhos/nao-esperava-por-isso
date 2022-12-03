@@ -5,7 +5,7 @@ date:   2022-12-02 17:03:05 -0300
 categories: jekyll update
 hide: true
 ---
-![Inteligencia Artificial](/assets/thumbs/post-0001-ai.png)
+![Inteligencia Artificial]({{ site.baseurl }}/assets/thumbs/post-0001-ai.png)
 
 ### LaMDA então revela qual acredita ser seu objetivo de existência 
 

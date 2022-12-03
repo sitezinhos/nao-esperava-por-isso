@@ -5,7 +5,7 @@ date:   2022-12-02 17:03:05 -0300
 categories: jekyll update
 hide: true
 ---
-![Inteligencia Artificial](/assets/thumbs/post-0001-ai.png)
+![Inteligencia Artificial]({{ site.baseurl }}/assets/thumbs/post-0001-ai.png)
 
 Lemoine foi afastado por publicar trechos da conversa que teve com a Inteligência Artificial LaMDA, com o intuito de fazer a mesma provar sua auto-consciência.  
 No Twitter, Lemoine afirmou: **“O Google pode chamar esse compartilhamento de propriedade proprietária. Eu chamo isso de compartilhar uma discussão que tive com um dos meus colegas de trabalho”**.

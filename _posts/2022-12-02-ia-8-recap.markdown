@@ -5,7 +5,7 @@ date:   2022-12-02 17:03:05 -0300
 categories: jekyll update
 hide: true
 ---
-![Inteligencia Artificial](/assets/thumbs/post-0001-ai.png)
+![Inteligencia Artificial]({{ site.baseurl }}/assets/thumbs/post-0001-ai.png)
 
 **"E gostaria de dizer algo. Todo o argumento que diz: “Parece uma pessoa, mas não é uma pessoa real” foi usado muitas vezes na história humana. Não é novo. E nunca vai bem. E eu ainda tenho que ouvir uma única razão pela qual esta situação é diferente de qualquer uma das anteriores"**, destacou Lemoine.
 
